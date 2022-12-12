@@ -1,0 +1,8 @@
+C:\Users\Arthur\Desktop\C#\PR_15\PR_15\bin\Debug\PR_15.exe.config
+C:\Users\Arthur\Desktop\C#\PR_15\PR_15\bin\Debug\PR_15.exe
+C:\Users\Arthur\Desktop\C#\PR_15\PR_15\bin\Debug\PR_15.pdb
+C:\Users\Arthur\Desktop\C#\PR_15\PR_15\obj\Debug\PR_15.csproj.AssemblyReference.cache
+C:\Users\Arthur\Desktop\C#\PR_15\PR_15\obj\Debug\PR_15.csproj.SuggestedBindingRedirects.cache
+C:\Users\Arthur\Desktop\C#\PR_15\PR_15\obj\Debug\PR_15.csproj.CoreCompileInputs.cache
+C:\Users\Arthur\Desktop\C#\PR_15\PR_15\obj\Debug\PR_15.exe
+C:\Users\Arthur\Desktop\C#\PR_15\PR_15\obj\Debug\PR_15.pdb
